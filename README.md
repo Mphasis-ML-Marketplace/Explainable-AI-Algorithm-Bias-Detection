@@ -14,4 +14,4 @@ Algorithmic bias is a major concern in models predicting outcomes for people suc
 Need customized Machine Learning and Deep Learning solutions? Get in touch!
 
 ## Amazon Marketplace Link
-The product can be found [here](www.asd.com)
+The product can be found [here](https://aws.amazon.com/marketplace/pp/prodview-grip2ega2nrya)
