@@ -1,17 +1,18 @@
-# ExplainableAI: Algorithm Bias Detection
+#  Financial Spreading Info Extraction
 
 ## Product overview
 
-Algorithmic bias is a major concern in models predicting outcomes for people such as loan approval, hiring, committing crime in the future etc. Algorithmic Bias needs to be detected and corrected to ensure that historically disadvantaged groups are not being discriminated against. The solution utilizes bias metrics at different levels of strictness to identify demographic and statistical disparities in groups results.
+Financial Spreading Info Extraction detects finance related tables like balance sheet, cash flow, income statement etc. and extracts the content as key value pairs. The solution uses text matching, NLP and Machine Learning to localize and identify financial tables and extract information. This will help banks, and other financial institutions to rapidly analyse borrowers'/clients' financial standings and associated risks. 
+
+
 
 ## Product Highlight 
 
-* The solution ascertains whether there is demographic disparity between outcomes for different groups and whether this disparate impact is higher than the legal threshold. The solution also identifies bias from a statistical parity point of view through the two most important metrics of bias: Equal Opportunity difference and Equalized odds difference. This informs whether there is parity in classification of deserving, and undeserving cases.
+* Automate financial spreading information extraction from company's digital financial statements. This reduces manual effort for a non-value added activity and improves the productivity of financial analysts, insurance brokers, data entry operators.
 
-* The solution helps organizations incorporate Fairness in AI so they can ensure that predictions from AI algorithms do not give undue advantages or disadvantages to any group based on sensitive characteristics such as race, sex, income, age, religious beliefs etc. It also helps in adherence to fairness and equitable treatment requirements of regulatory authorities.
+* This solution uses key word matching, NLP and Machine Learning  to accurately identify  tables in digital documents. It can recognise assets/liabilities, income sources and expense line items. The output will contain list of pages with content, financial periods and key metrics mapped to respective financial terms. 
 
-* PACE - ML is Mphasis Framework and Methodology for end-to-end machine learning development and deployment. PACE-ML enables organizations to improve the quality & reliability of the machine learning solutions in production and helps automate, scale, and monitor them. 
-Need customized Machine Learning and Deep Learning solutions? Get in touch!
+* Mphasis DeepInsights is a cloud-based cognitive computing platform that offers data extraction & predictive analytics capabilities. Need Customized Deep learning and Machine Learning Solutions? Get in Touch!
 
 ## Amazon Marketplace Link
 The product can be found [here](https://aws.amazon.com/marketplace/pp/prodview-grip2ega2nrya)
